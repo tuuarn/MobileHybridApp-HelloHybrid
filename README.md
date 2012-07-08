@@ -11,3 +11,4 @@ Starter Kit for in-class Training
 * Test with Ripple
 * Build @ build.phonegap.com
 * Celebrate your first Hybrid App <3 Hooray!
+* folk by TUU.
